@@ -1,0 +1,12 @@
+{
+  "name": "tpnode",
+  "version": "1.0.0",
+  "description": "4eme version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Safae",
+  "license": "ISC"
+}
